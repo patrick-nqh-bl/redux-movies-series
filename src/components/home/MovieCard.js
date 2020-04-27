@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom';
 
 export class MovieCard extends Component {
   render() {
@@ -12,10 +13,10 @@ export class MovieCard extends Component {
             <h5 className="text-light card-title">
               {movie.Title} - {movie.Year}
             </h5>
-            <a href="#" className="btn btn-primary">
+            <Link to={'/movies/' + movie.imdbID} className="btn btn-primary">
               Movie Details
               <i className="fas fa-chevron-right" />
-            </a>
+            </Link>
           </div>
         </div>  
       </>

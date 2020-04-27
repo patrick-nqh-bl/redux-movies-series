@@ -7,7 +7,7 @@ export class MoviesContainer extends Component {
     const { movies } = this.props;
     let content = '';
 
-    content = movies.length > 0 
+    content = movies 
       ? movies.map((movie, index) => 
         <MovieCard 
           key={index} 

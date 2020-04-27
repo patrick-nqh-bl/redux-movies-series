@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   return (
@@ -7,9 +8,9 @@ function Navbar() {
       <nav className="navbar navbar-light bg-dark mb-5">
         <div className="container">
           <div className="navbar-header">
-            <a href="#" className="navbar-brand text-white text-lg brand-text">
+            <Link to="/" className="navbar-brand text-white text-lg brand-text">
               MovieSeriesInfo
-            </a>
+            </Link>
           </div>
           <ul className="navbar-nav ml-auto text-light d-inline-block">
             <li className="nav-item d-inline-block mr-4">

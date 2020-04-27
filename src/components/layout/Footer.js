@@ -14,6 +14,7 @@ function Footer() {
           <a 
             href="http://www.omdbapi.com/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             OMDB
           </a>
