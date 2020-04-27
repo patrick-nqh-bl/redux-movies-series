@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-movies-series/static/css/main.c8cbbb9f.chunk.css",
+    "main.js": "/redux-movies-series/static/js/main.3763d7c6.chunk.js",
+    "main.js.map": "/redux-movies-series/static/js/main.3763d7c6.chunk.js.map",
+    "runtime-main.js": "/redux-movies-series/static/js/runtime-main.3555ac00.js",
+    "runtime-main.js.map": "/redux-movies-series/static/js/runtime-main.3555ac00.js.map",
+    "static/js/2.9fb8474a.chunk.js": "/redux-movies-series/static/js/2.9fb8474a.chunk.js",
+    "static/js/2.9fb8474a.chunk.js.map": "/redux-movies-series/static/js/2.9fb8474a.chunk.js.map",
+    "index.html": "/redux-movies-series/index.html",
+    "precache-manifest.4e2d8b76b2056ffe4660cbf83ee97144.js": "/redux-movies-series/precache-manifest.4e2d8b76b2056ffe4660cbf83ee97144.js",
+    "service-worker.js": "/redux-movies-series/service-worker.js",
+    "static/css/main.c8cbbb9f.chunk.css.map": "/redux-movies-series/static/css/main.c8cbbb9f.chunk.css.map",
+    "static/js/2.9fb8474a.chunk.js.LICENSE.txt": "/redux-movies-series/static/js/2.9fb8474a.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/redux-movies-series/static/media/spinner.205810b0.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3555ac00.js",
+    "static/js/2.9fb8474a.chunk.js",
+    "static/css/main.c8cbbb9f.chunk.css",
+    "static/js/main.3763d7c6.chunk.js"
+  ]
+}
